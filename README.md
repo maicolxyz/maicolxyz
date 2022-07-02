@@ -1,9 +1,7 @@
 Hi 👋 my name is Mike
 =====================
 
-I am a lifelong learner who enjoys learning economics and finance with a focus on business intelligence. Though my professional experience is in healthcare management and operations, I have developed a strong interest in information technology through various uses of electronic medical record systems during my early career. 
-
-My GitHub profile is a place for sharing contributions to open-source communities and, in part, to track my learning progress.
+I am a lifelong learner who enjoys learning economics and finance with a focus on business intelligence. Through my early career, I have utilized electronic medical records to manage large data sets and optimize workflows in a variety of ways, which led me to develop a keen interest in information technology.
 
 * 🌍  I'm based in Connecticut & New York
 * 🧠  I'm learning Python for Data Science
