@@ -1,7 +1,7 @@
 Hi 👋 my name is Mike
 =====================
 
-I am a lifelong learner who enjoys learning economics and finance with a focus on business intelligence. Though my professional experience is in healthcare management and operations, I have developed a strong interest in information technology through various uses of electronic medical record systems during my early career. Combined with my learning interests and background experiences, I'm on a Python learning path for DevOps and Data Science. 
+I am a lifelong learner who enjoys learning economics and finance with a focus on business intelligence. Though my professional experience is in healthcare management and operations, I have developed a strong interest in information technology through various uses of electronic medical record systems during my early career. 
 
 My GitHub profile is a place for sharing contributions to open-source communities and, in part, to track my learning progress.
 
@@ -10,7 +10,7 @@ My GitHub profile is a place for sharing contributions to open-source communitie
 * 🤝  I'm open to collaborating on projects and learning from others
 * ⚡  Other hobbies and interests include layer-1 blockchains, distributed ledger technologies, cryptocurrencies, and 'el Atlético de Madrid'
 
-### Strong interest for learning additional skills in:
+### Additionally, learning skills in:
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
