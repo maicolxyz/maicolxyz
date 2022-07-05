@@ -1,7 +1,9 @@
 Hi 👋 my name is Mike
 =====================
 
-I am a lifelong learner who enjoys learning economics and finance. Through my early career, I have utilized electronic medical records to manage large data sets and optimize workflows in a variety of ways, which led me to develop a keen interest in information technology. As a result of my interests and experiences, I have continued to learn Python programming. 
+I am a lifelong learner who enjoys learning economics and finance. Through my early career, I have utilized electronic medical records to manage large data sets and optimize workflows in a variety of ways, which led me to develop a keen interest in information technology. 
+
+As a result of my interests and experiences, I have continued to learn Python programming: 
 
 * 🌍  I'm based in Connecticut & New York
 * 🧠  I'm learning Python for DevOps and Data Science
