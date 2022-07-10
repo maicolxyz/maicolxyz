@@ -1,7 +1,7 @@
 Hi 👋 my name is Mike
 =====================
 
-Lifelong learner interested in information technologies, economics, finance, healthcare, and 🐍 Python programming.
+Lifelong learner interested in information technologies, economics, finance, healthcare, and Python programming.
 
 * 🌍  I'm based in Connecticut & New York
 * 🧠  I'm learning Python for DevOps and Data Science
