@@ -1,14 +1,14 @@
 Hi 👋 my name is Mike
 =====================
 
-Lifelong learner interested in information technologies, economics, finance, healthcare, and Python programming.
+Lifelong learner interested in information technologies, economics, finance, healthcare, and Python programming. 
 
 * 🌍  I'm based in Connecticut & New York
 * 🧠  I'm learning Python for DevOps and Data Science
 * 🤝  I'm open to collaborating on projects
-* ⚡  Other hobbies and interests include layer-1 blockchains, distributed ledger technologies, and crypto
+* ⚡  Other interests include layer-1 blockchains, distributed ledger technologies, and crypto
 
-### Additionally, learning skills in:
+### Learning additional skills in:
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
